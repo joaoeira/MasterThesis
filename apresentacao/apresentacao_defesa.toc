@@ -1,9 +1,0 @@
-\beamer@endinputifotherversion {3.36pt}
-\beamer@sectionintoc {1}{Introduction}{2}{0}{1}
-\beamer@sectionintoc {2}{Selected Games}{5}{0}{2}
-\beamer@subsectionintoc {2}{1}{Ultimatum Game}{7}{0}{2}
-\beamer@subsectionintoc {2}{2}{Gift-Exchange Game}{10}{0}{2}
-\beamer@sectionintoc {3}{External Validity of Experiments in Economics}{14}{0}{3}
-\beamer@sectionintoc {4}{Modelling Other-Regarding Preferences}{19}{0}{4}
-\beamer@sectionintoc {5}{Incomplete contracts under other-regarding preferences}{23}{0}{5}
-\beamer@sectionintoc {6}{Conclusion}{35}{0}{6}
