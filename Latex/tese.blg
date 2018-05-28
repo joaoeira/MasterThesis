@@ -1,0 +1,77 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: tese.aux
+The style file: apacite.bst
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=20001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: references_introduction.bib
+Database file #2: references_conclusion.bib
+Database file #3: references_contract.bib
+Database file #4: references_gift.bib
+Database file #5: references_validity.bib
+Database file #6: references_model.bib
+Database file #7: references_trust.bib
+Database file #8: references_ultimatum.bib
+Repeated entry---line 1 of file references_ultimatum.bib
+ : @article{henrich2005economic
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 13 of file references_ultimatum.bib
+ : @article{andersen2011stakes
+ :                            ,
+I'm skipping whatever remains of this entry
+Database file #9: references_dictator.bib
+Repeated entry---line 34 of file references_dictator.bib
+ : @book{camerer2011behavioral
+ :                            ,
+I'm skipping whatever remains of this entry
+apacite.bst [2013/07/21 v6.03 APA bibliography style]
+You've used 47 entries,
+            6951 wiz_defined-function locations,
+            1572 strings with 18149 characters,
+and the built_in function-call counts, 87779 in all, are:
+= -- 10910
+> -- 688
+< -- 4237
++ -- 4290
+- -- 97
+* -- 5632
+:= -- 16092
+add.period$ -- 193
+call.type$ -- 47
+change.case$ -- 818
+chr.to.int$ -- 0
+cite$ -- 94
+duplicate$ -- 2314
+empty$ -- 3482
+format.name$ -- 1126
+if$ -- 16753
+int.to.chr$ -- 0
+int.to.str$ -- 145
+missing$ -- 0
+newline$ -- 1157
+num.names$ -- 378
+pop$ -- 1313
+preamble$ -- 1
+purify$ -- 188
+quote$ -- 0
+skip$ -- 5898
+stack$ -- 0
+substring$ -- 4675
+swap$ -- 1385
+text.length$ -- 108
+text.prefix$ -- 0
+top$ -- 1
+type$ -- 3952
+warning$ -- 0
+while$ -- 392
+width$ -- 0
+write$ -- 1413
+(There were 3 error messages)

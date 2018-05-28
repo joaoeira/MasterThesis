@@ -1,0 +1,3 @@
+#!/bin/sh
+pdfunite capa_tese_comimagem4.pdf folha_rosto_tese.pdf tese.pdf tese_final.pdf
+

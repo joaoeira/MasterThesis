@@ -1,0 +1,17 @@
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}
+\contentsline {section}{\numberline {2}Other-Regarding Preferences: Experimental Evidence}{2}{section.2}
+\contentsline {subsection}{\numberline {2.1}Ultimatum and Dictator games}{2}{subsection.2.1}
+\contentsline {subsubsection}{\numberline {2.1.1}The ultimatum game}{2}{subsubsection.2.1.1}
+\contentsline {subsubsection}{\numberline {2.1.2}The dictator game}{6}{subsubsection.2.1.2}
+\contentsline {subsection}{\numberline {2.2}Gift exchange and trust games}{8}{subsection.2.2}
+\contentsline {subsubsection}{\numberline {2.2.1}The gift exchange game}{8}{subsubsection.2.2.1}
+\contentsline {subsubsection}{\numberline {2.2.2}The trust game}{12}{subsubsection.2.2.2}
+\contentsline {section}{\numberline {3}On the Validity of Using Experiments in Economics}{15}{section.3}
+\contentsline {section}{\numberline {4}Moddeling Other-Regarding Preferences}{24}{section.4}
+\contentsline {subsection}{\numberline {4.1}The Fehr-Schmidt Model of Inequity Aversion}{24}{subsection.4.1}
+\contentsline {subsubsection}{\numberline {4.1.1}The ultimatum Game}{25}{subsubsection.4.1.1}
+\contentsline {section}{\numberline {5}Contract Design Under Other-Regarding Preferences}{27}{section.5}
+\contentsline {section}{\numberline {6}Conclusion}{33}{section.6}
+\contentsline {section}{References}{35}{section*.4}
+\contentsline {section}{\numberline {7}Appendix}{39}{section.7}
+\contentsline {subsection}{\numberline {7.1}Contract Design Under Other-Regarding Preferences (p.31)}{39}{subsection.7.1}
